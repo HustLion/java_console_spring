@@ -1,5 +1,11 @@
 package com.hustlion.java_console_spring;
 
+
+/**
+ * 示例 bean
+ * @author Hustlion (hustlionm@qq.com)
+ *
+ */
 public class HelloWorld {
 	private String message;
 
